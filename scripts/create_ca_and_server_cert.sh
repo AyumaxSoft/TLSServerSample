@@ -53,5 +53,5 @@ Generated:
 - Server key:   $SERVER_KEY
 - Full chain:   $SERVER_CHAIN
 
-ObjectDeliverer TLSClient (server verification) には CA cert ($CA_CERT) を指定してください。
+For ObjectDeliverer TLSClient (server verification), set the CA cert to $CA_CERT.
 EOF

@@ -44,6 +44,6 @@ Generated:
 - Client cert: $CLIENT_CERT
 - Client key:  $CLIENT_KEY
 
-TLSServerSample の mTLS でこの Client cert/key を利用できます。
-ObjectDeliverer TLSClient 側でクライアント証明書を送る場合にも利用できます。
+You can use this client certificate/key for mTLS in TLSServerSample.
+You can also use it when ObjectDeliverer TLSClient sends a client certificate.
 EOF
